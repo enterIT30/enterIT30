@@ -4,7 +4,7 @@ About me
 
 Latest YouTube Video
 
-# Blog posts
+# Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
