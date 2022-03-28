@@ -5,8 +5,8 @@ About me
 Latest YouTube Video
 
 # Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 Languages and Tools
 
