@@ -1,13 +1,16 @@
 [![Header](https://github.com/enterIT30/enterIT30/blob/main/image/github-header.jpg)](https://www.youtube.com/enterIT30)
 
-About me
+<h1 align="center">Привет, меня зовут Владислав
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25"/></h1>
+<h3 align="center">Учу JavaScript. Автор телеграм и ютуб каналов "Войти в IT к 30"</h3>
+<br>
+<br>
 
-Latest YouTube Video
 
-# Latest YouTube Videos
+## Последние YouTube видео
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-Languages and Tools
+<!-- Languages and Tools -->
 
-Follow me
+<!-- Follow me -->
