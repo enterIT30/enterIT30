@@ -3,7 +3,6 @@
 <h1 align="center">Привет, меня зовут Владислав
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25"/></h1>
 <h3 align="center">Учу JavaScript. Автор телеграм и ютуб каналов "Войти в IT к 30"</h3>
-<br>
 
 
 ## Последние YouTube видео
