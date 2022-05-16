@@ -5,6 +5,17 @@
 <h3 align="center">Учу JavaScript. Автор телеграм и ютуб каналов "Войти в IT к 30"</h3>
 
 
+<img src="image/telegram.png" width="15px"> Telegram: https://t.me/enterIT30
+
+<img src="image/youtube.png" width="15px"> YouTube: https://www.youtube.com/enterIT30
+
+<img src="image/codewars.png" width="15px"> Codewars: https://www.codewars.com/users/enterIT30
+
+<img src="image/githab.png" width="16px"> GitHub: https://github.com/enterIT30
+
+
+
+
 ## Последние YouTube видео
 <!-- BLOG-POST-LIST:START -->
 - [Итоги челленджa по JS  | Почему не получилось | Сверстал макет | Войти в IT к 30](https://www.youtube.com/watch?v=TH-gU--KgJg)
